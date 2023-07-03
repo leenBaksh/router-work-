@@ -1,4 +1,4 @@
-import {outlet} from
+import {outlet} from react-router-dom
 
 const Root = () => {
 return(
